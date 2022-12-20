@@ -12,16 +12,16 @@ You can click the Preview link to take a look at your changes.
 
 microservices
 
-BookStoreApp-Distributed-Application  
-food-delivery-app
-Springy-Store-Microservices           
-micro-company
-TodoApp-For-Microservices             
-python-microservices
-booking-app                           
-react-crud
-coolstore-microservices               
-react-springboot-microservices
+- BookStoreApp-Distributed-Application  
+- food-delivery-app
+- Springy-Store-Microservices           
+- micro-company
+- TodoApp-For-Microservices             
+- python-microservices
+- booking-app                           
+- react-crud
+- coolstore-microservices               
+- react-springboot-microservices
 docker-flask-mongodb-example          
 shopbiz-app
 eShopOnContainers                     
