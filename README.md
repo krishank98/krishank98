@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @krishank98
+- 👋 Hi, I’m @krishank98.
 - 👀 I’m interested in cloud , devops , linux and almost everything related.
 - 🌱 I’m currently learning top tools in devops process.
 - 💞️ I’m looking to collaborate on devops 
